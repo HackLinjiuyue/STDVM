@@ -15,17 +15,29 @@ byte codes are built by general compiler which can compile many languages.
 
 语句指令
 `d(g) 定义变量，加g为全局
+
 so xxx 标准流输出
+
 si 标准流输入->std变量内
+
 lp 后缀表达串 循环
+
 edl 结束循环
+
 if 后缀表达串 判断
+
 edi 结束判断
+
 es 否则
+
 cl 参数,参数,…… 调用函数
+
 fi xxx 文件输入(字符串路径)->std
+
 fo xxx 文件输出(字符串路径)
+
 brk 跳出循环
+
 rt 返回函数值`
 
 运算
