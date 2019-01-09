@@ -1,3 +1,7 @@
 未实现功能(not achieve):
 1.导入外部库(import)
 2.使用c/c++动态库/可执行文件(use c/c++ dll/so/exe)
+
+重置计划：
+将调整已有的虚拟机结构。迭代后的虚拟机将会有更好的代码清晰度以及更好的错误及时反馈功能。
+I will rewrite the code of the stdvm.The updated vm will have better code and better error-back.
